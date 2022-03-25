@@ -6,7 +6,7 @@ The Anythink Market backend is Node web app written with [Express](https://expre
 
 To start the app use: `./start.sh` from the backend directory.
 
-Make sure your DB is up and running. Add .env file to configure the MongoDB connection string, example file - `./.env.template`
+Make sure your DB is up and running. Add .env file under `./backend` folder to configure the MongoDB connection string, example file - `./.env.template`
 
 ## Dependencies
 
